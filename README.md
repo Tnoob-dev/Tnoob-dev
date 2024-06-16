@@ -1,1 +1,1 @@
-F*cking System
+F*ck the System
