@@ -1,5 +1,5 @@
 # 💫 About Me:
-📖 I am currently pursuing a degree in Data Science at the University of Havana.<br>👥 I am looking to collaborate with anyone interested in working together, or who would like to contribute to my projects.<br>🧑‍💻 I am always learning about backend development, in my case with Python, using FastAPI. I might explore other frameworks in the future, but for now, this is my favorite, I also know a little of Web Frontend Development, handling the basics like HTML5, CSS3 and JS until functional level, and also frameworks like React and TailwindCSS.<br>💬 Feel free to ask me about any programming-related topic, and I'll gladly answer as long as I'm familiar with the subject.
+👥 I am looking to collaborate with anyone interested in working together, or who would like to contribute to my projects.<br>🧑‍💻 I am always learning about backend development, in my case with Python, using FastAPI. I might explore other frameworks in the future, but for now, this is my favorite, I also know a little of Web Frontend Development, handling the basics like HTML5, CSS3 and JS until functional level, and also frameworks like React and TailwindCSS.<br>💬 Feel free to ask me about any programming-related topic, and I'll gladly answer as long as I'm familiar with the subject.
 
 
 ## 🌐 Socials:
